@@ -1,2 +1,3 @@
 Cloud Platform v1
 Critical authentication fix
+Security patch v1.2
